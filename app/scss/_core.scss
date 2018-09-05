@@ -1,0 +1,21 @@
+@import "../scss/_vars";
+@import "../scss/styles";
+
+//templates styles
+@import "../templates/login/login.scss";
+@import "../templates/app/app.scss";
+@import "../templates/dentists/dentists.scss";
+@import "../templates/patients/patients.scss";
+@import "../templates/clinics/clinics.scss";
+@import "../templates/specialities/spec.scss";
+@import "../templates/purchase/purchase.scss";
+@import "../templates/text/text.scss";
+@import "../templates/dentist-detail/dentist-detail";
+@import "../templates/patient-detail/patient-detail";
+@import "../templates/clinic-detail/clinic-detail";
+
+//directive style
+
+//components styles
+@import "../components/confirm/confirm.scss";
+@import "../components/purchase_create/purchase_create";
